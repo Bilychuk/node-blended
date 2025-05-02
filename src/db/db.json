@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Unbranded Wooden Keyboard",
+    "price": "671.99",
+    "category": "Sports"
+  },
+  {
+    "name": "Handcrafted Silk Keyboard",
+    "price": "122.95",
+    "category": "Jewelry"
+  },
+  {
+    "name": "Intelligent Concrete Car",
+    "price": "856.50",
+    "category": "Electronics"
+  },
+  {
+    "name": "Elegant Silk Salad",
+    "price": "316.10",
+    "category": "Computers",
+    "description": "Introducing the Bouvet Island-inspired Computer, blending esteemed style with local craftsmanship"
+  },
+  {
+    "name": "Tasty Wooden Shoes",
+    "price": "201.19",
+    "category": "Automotive",
+    "description": "Our horse-friendly Pizza ensures creamy comfort for your pets"
+  },
+  {
+    "name": "Licensed Silk Soap",
+    "price": "818.05",
+    "category": "Beauty",
+    "description": "Professional-grade Towels perfect for somber training and recreational use"
+  }
+]
